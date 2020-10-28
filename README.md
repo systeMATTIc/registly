@@ -1,4 +1,4 @@
-## Stacksi Frontend Test
+## Registly
 
 A beautiful registration page.
 
